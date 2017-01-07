@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='MusicNowUITests.xctest' tests='18' failures='0'>
+  <testsuite name='MusicNowUITests.MusicNowUITests' tests='18' failures='0'>
+    <testcase classname='MusicNowUITests.MusicNowUITests' name='testAll' time='33.280'/>
+    <testcase classname='MusicNowUITests.MusicNowUITests' name='testNbrMusics' time='7.053'/>
+    <testcase classname='MusicNowUITests.MusicNowUITests' name='testNextButton' time='10.513'/>
+    <testcase classname='MusicNowUITests.MusicNowUITests' name='testPauseButton' time='12.100'/>
+    <testcase classname='MusicNowUITests.MusicNowUITests' name='testPlayButtonInList' time='14.310'/>
+    <testcase classname='MusicNowUITests.MusicNowUITests' name='testPrevButton' time='9.812'/>
+    <testcase classname='MusicNowUITests.MusicNowUITests' name='testScrollList' time='9.454'/>
+    <testcase classname='MusicNowUITests.MusicNowUITests' name='testShuffleButton' time='9.350'/>
+    <testcase classname='MusicNowUITests.MusicNowUITests' name='testSlider' time='13.782'/>
+    <testcase classname='MusicNowUITests.MusicNowUITests' name='testAll' time='32.607'/>
+    <testcase classname='MusicNowUITests.MusicNowUITests' name='testNbrMusics' time='6.970'/>
+    <testcase classname='MusicNowUITests.MusicNowUITests' name='testNextButton' time='10.284'/>
+    <testcase classname='MusicNowUITests.MusicNowUITests' name='testPauseButton' time='12.418'/>
+    <testcase classname='MusicNowUITests.MusicNowUITests' name='testPlayButtonInList' time='14.355'/>
+    <testcase classname='MusicNowUITests.MusicNowUITests' name='testPrevButton' time='9.723'/>
+    <testcase classname='MusicNowUITests.MusicNowUITests' name='testScrollList' time='9.775'/>
+    <testcase classname='MusicNowUITests.MusicNowUITests' name='testShuffleButton' time='9.208'/>
+    <testcase classname='MusicNowUITests.MusicNowUITests' name='testSlider' time='13.593'/>
+  </testsuite>
+</testsuites>
