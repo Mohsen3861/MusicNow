@@ -45,7 +45,6 @@ class MainController: UIViewController, UITableViewDelegate ,UITableViewDataSour
         arrayOfMusics = [music,music2];
         
         arrayOfMusics = getMusicInfo();
-        
         nameLable.text = "";
         artistLable.text = "";
         
