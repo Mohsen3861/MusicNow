@@ -15,12 +15,19 @@ fastlane_version "2.5.0"
 
 default_platform :ios
 
-
 platform :ios do
 
+before_all do
+    ENV["SLACK_URL"] = "https://hooks.slack.com/services/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" 
+  end
+	
   desc "Runs all the tests"
   lane :test do
+     
     scan(devices: ["iPhone 6", "iPhone 5s"])
+    slack(
+        message: "Test finished"
+      )
   end
 
 
