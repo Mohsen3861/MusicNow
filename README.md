@@ -1,3 +1,7 @@
+
+
+![alt tag](https://travis-ci.org/Mohsen3861/MusicNow.svg?branch=master)
+
 fastlane documentation
 ================
 # Installation
