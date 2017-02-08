@@ -10,6 +10,7 @@ import Foundation
 
 class Music: NSObject {
  
+    qqsfd
     public var name :String!
     public var duration : CLong!
     public var format : String!
